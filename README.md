@@ -1,5 +1,7 @@
 # test-nuxt-axios-proxy
 
+Попытка решить проблему отсутствия CORS на внешнем сервере API
+
 > Nuxt.js project
 
 ## Build Setup
